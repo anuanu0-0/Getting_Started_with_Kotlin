@@ -22,4 +22,12 @@
 22. [Interfaces](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/22.%20Interfaces.kt)
 23. [Nested Class](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/23.%20NestedClasses.kt)
 24. [Exercise-7](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/24.%20Ex-7.kt)
-
+25. [Anonymous Class](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/25.%20AnonymousClass.kt)
+26. [Data Class](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/26.%20DataClass.kt)
+27. [Enum Class](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/27.%20EnumClass.kt)
+28. [Sealed Class](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/28.%20SealedClass.kt0)
+29. [Singleton Class](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/29.%20Singleton.kt)
+30. [Extension Functions](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/30.%20ExtensionFunctions.kt)
+31. [Exercise-8](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/31.%20Ex-8.kt)
+32. [Exercise-9](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/32.%20Ex-9.kt)
+33. [Exercise-10](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/33.%20Ex-10.kt)

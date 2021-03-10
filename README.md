@@ -1,3 +1,5 @@
+## Kotlin QuickStart
+
 1. [Hello World](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/1.%20Hello_world.kt)
 2. [Null Safety](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/2.%20Null%20Safety.kt)
 3. [Type Conversion and type casting](https://github.com/anuanu0-0/Kotlin-Basics/blob/main/3.%20TypeConversion_casting.kt)
@@ -31,3 +33,8 @@
 31. [Exercise-8](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/31.%20Ex-8.kt)
 32. [Exercise-9](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/32.%20Ex-9.kt)
 33. [Exercise-10](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Classes/Practice%20Exercises/33.%20Ex-10.kt)
+34. [Types](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Generics/34.%20Types.kt)
+35. [Generic Functions](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Generics/35.%20GenericFunctions.kt)
+36. [Generic Classes](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Generics/36.%20GenericClasses.kt)
+37. [Generic Constraints](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Generics/37.%20GenericConstraints.kt)
+38. [Variance_1](https://github.com/anuanu0-0/Getting_Started_with_Kotlin/blob/main/Generics/38.%20Variance.kt)
